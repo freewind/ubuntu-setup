@@ -31,3 +31,9 @@ https://bearychat.com/
 
 找到linux 64位的版本，下载并解压即可使用
 
+然后打开我们班的专属域名：
+
+<https://twa-meeting1.bearychat.com>
+
+注册新用户并加入。建议把它加入到收藏夹里方便使用。
+
