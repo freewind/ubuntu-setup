@@ -15,3 +15,11 @@ curl https://raw.githubusercontent.com/creationix/nvm/v0.25.0/install.sh | bash
 nvm install 6
 nvm use 6
 ```
+
+然后使用：
+
+```
+node -v
+```
+
+确定输出的版本号为`6.x`
